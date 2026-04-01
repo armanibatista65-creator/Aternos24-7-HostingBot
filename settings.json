@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": " plasmicw-FKKt.aternos.me:20092",
+    "port": 20092,
     "version": "",
     "try-creative": false
   },
