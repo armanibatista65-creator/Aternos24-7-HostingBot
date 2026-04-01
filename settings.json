@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " plasmicw-FKKt.aternos.me:20092",
+    "ip": "pompano.aternos.host:20092",
     "port": 20092,
     "version": "",
     "try-creative": false
